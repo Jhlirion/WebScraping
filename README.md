@@ -18,9 +18,12 @@ ________
 
 _________
 ## Seleium
-[Web Scriping Seleium](https://github.com/Jhlirion/WebScraping/blob/main/venv/ws_selenium\WS_selenium.ipynb)
+
+### cCon esta libreria optendremos datos de una página de una liga de futbol : 'https://www.adamchoi.co.uk/teamgoals/detailed', opteniendo así los resultados de una liga en especifica, como en este caso fue de la liga de España
+
+[Web Scriping Seleium](https://github.com/Jhlirion/WebScraping/blob/main/venv/WS_selenium/WS_selenium.ipynb)
 
 _____
 ## Scrapy
 
-[Web Scriping Scrapy](https://github.com/Jhlirion/WebScraping/blob/main/venv/)
+[Web Scriping Scrapy](https://github.com/Jhlirion/WebScraping/blob/main/venv/WS_scrapy/WS_scrapy.ipynb)
