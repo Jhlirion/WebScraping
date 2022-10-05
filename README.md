@@ -14,14 +14,14 @@ ________
 
 ### Esta libreria en muy util y sencillo para la extraccion de datos de una pagina html, en esta ociación extraeremos datos de esta pánia web:'https://subslikescript.com/movie/Patriot-4460598' y lo guardaremos en un archivo de texto (txt).
 
-[Web Scriping BeautifulSoup](https://github.com/Jhlirion/WebScraping/blob/main/venv/WS_BeautifulSoup/WS_beautifulsoup.ipynb)
+[Web Scriping BeautifulSoup](https://github.com/Jhlirion/WebScraping/tree/main/venv/WS_beautifulsoup)
 
 _________
 ## Seleium
 
 ### cCon esta libreria optendremos datos de una página de una liga de futbol : 'https://www.adamchoi.co.uk/teamgoals/detailed', opteniendo así los resultados de una liga en especifica, como en este caso fue de la liga de España
 
-[Web Scriping Seleium](https://github.com/Jhlirion/WebScraping/blob/main/venv/ws_selenium/WS_selenium.ipynb)
+[Web Scriping Seleium](https://github.com/Jhlirion/WebScraping/tree/main/venv/ws_selenium)
 
 _____
 ## Scrapy
