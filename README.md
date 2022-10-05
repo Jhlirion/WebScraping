@@ -19,7 +19,7 @@ ________
 _________
 ## Seleium
 
-### cCon esta libreria optendremos datos de una página de una liga de futbol : 'https://www.adamchoi.co.uk/teamgoals/detailed', opteniendo así los resultados de una liga en especifica, como en este caso fue de la liga de España
+### Con esta libreria optendremos datos de una página de una liga de futbol : 'https://www.adamchoi.co.uk/teamgoals/detailed', opteniendo así los resultados de una liga en especifica, como en este caso fue de la liga de España
 
 [Web Scriping Seleium](https://github.com/Jhlirion/WebScraping/blob/main/ws_selenium/WS_selenium.ipynb)
 
@@ -28,4 +28,4 @@ _____
 
 ### Para realizar Web Scraping con esta libreria se requiere trabajar con Spider.
 
-[Web Scriping Scrapy](https://github.com/Jhlirion/WebScraping/blob/main/WS_scrapy\WS_scrapy.ipynb)
+[Web Scriping Scrapy](https://github.com/Jhlirion/WebScraping/blob/main/WS_scrapy/WS_scrapy.ipynb)
