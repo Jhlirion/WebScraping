@@ -1,5 +1,5 @@
 _________
-# Web Scriping con Pandas, BeautifulSoup, Seleium y Scrapy
+# Web Scraping con Pandas, BeautifulSoup, Seleium y Scrapy
 _________
 
 ## Pandas
